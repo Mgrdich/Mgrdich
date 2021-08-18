@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋</h1>
-<h1 align="center">I'm Mgrdich - Software Engineer</h1> 
+<h1 align="center">Helloo 👋</h1>
+<h1 align="center">I'm Mgrdich - Human </h1> 
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mgrdich&langs_count=8&theme=radical&count_private=true)
 
