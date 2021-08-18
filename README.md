@@ -1,7 +1,9 @@
-### Hi there 👋
-### I'm Mgrdich - Software Engineer  
+<h1 align="center">Hi there 👋</h1>
+<h1 align="center">I'm Mgrdich - Software Engineer</h1> 
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mgrdich&langs_count=8&theme=radical&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mgrdich&layout=compact&theme=algolia&count_private=true)
+![Mgrdich's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mgrdich&count_private=true&show_icons=true&theme=radical)
 
 <!--
 **Mgrdich/Mgrdich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
