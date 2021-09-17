@@ -5,8 +5,7 @@
 
 ![Mgrdich's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mgrdich&count_private=true&show_icons=true&theme=radical)
 
-![Mgrdich's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mgrdich)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--![Mgrdich's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mgrdich&theme=radical)-->
 
 
 <!--
