@@ -3,11 +3,13 @@
 
 - 📫 How to reach me: https://www.linkedin.com/in/mgrdich-minasian/
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mgrdich&langs_count=6&theme=radical&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mgrdich&langs_count=6&theme=radical&count_private=true&layout=compact)
 
-![Mgrdich's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mgrdich&count_private=true&show_icons=true&theme=radical)
+![Mgrdich's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Mgrdich&count_private=true&show_icons=true&theme=radical)
 
 <!--![Mgrdich's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mgrdich&theme=radical)-->
+
+
 
 
 <!--
