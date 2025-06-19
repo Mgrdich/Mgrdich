@@ -1,9 +1,9 @@
 <h1 align="center">Helloo 👋</h1>
 <h1 align="center">I'm Mgrdich ( Mgo ) - Human </h1> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mgrdich&langs_count=8&theme=radical&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mgrdich&langs_count=8&theme=radical&count_private=true&layout=compact&cache_seconds=3600)
 
-![Mgrdich's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mgrdich&count_private=true&show_icons=true&theme=radical)
+![Mgrdich's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mgrdich&count_private=true&show_icons=true&theme=radical&cache_seconds=3600)
 
 <!--![Mgrdich's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mgrdich&theme=radical)-->
 
